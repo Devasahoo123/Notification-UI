@@ -1,4 +1,4 @@
-const API = "http://localhost:8080/api/notifications";
+const API = "https://notification-backend-qxf1.onrender.com/";
 
 export const STREAM_URL = `${API}/stream`;
 
